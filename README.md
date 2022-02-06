@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sachinsc123
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning Unity Game Engine
-- 💞️ I’m looking to collaborate on making Games
+- 👋 Hi, I’m sachinsc
+- 👀 I’m interested in programing
+- 🌱 I’m currently learning kotlin
+- 💞️ I’m looking to collaborate on making App's and Games
 - 📫 How to reach me gamedevchannel653@gmail.com
 
 
